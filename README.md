@@ -1,13 +1,13 @@
 # fullstack-drf-vue-vuex
 fullstack auth django rest framework and vuejs & vuex
 
-#Prerequisites
+# Prerequisites
 
 Knowlegde of the Python & JavaScript Programming language.
 
 Knowlegde of Vue.js,vuex and Django and Django REST Framework
 
-#Getting Started
+# Getting Started
 
 Clone this project to your machine
 Follow the instructions here to setup the Django REST Framework API.

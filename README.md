@@ -3,9 +3,10 @@ fullstack auth django rest framework and vuejs & vuex
 
 # Prerequisites
 
-Knowlegde of the Python & JavaScript Programming language.
+------>> Python & JavaScript Programming language.
 
-Knowlegde of Vue.js,vuex and Django and Django REST Framework
+------>> Python & JavaScript Programming language.
+ Vue.js,vuex and Django and Django REST Framework
 
 # Getting Started
 
